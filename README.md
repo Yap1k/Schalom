@@ -1,2 +1,2 @@
 # Schalom
-When you start using GitHub)))
+When you are start using GitHub)))
